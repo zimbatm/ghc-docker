@@ -1,7 +1,7 @@
-Docker + GHC 7.8.4
-==================
+Docker + Ubuntu 12.04 + GHC 7.8.4
+=================================
 
-Ubuntu container with GHC 7.8.4
+It's all in the title
 
 Usage
 -----
